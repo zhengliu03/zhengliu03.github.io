@@ -345,7 +345,7 @@ _(\* denotes equal contribution)_
 **OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value**
 
 - Mengzhang Cai\*, Xin Gao\*, Yu Li\*, Honglin Lin\*, **Zheng Liu\***, ..., Dahua Lin, Conghui He, Lijun Wu.
-- [[Paper]](https://arxiv.org/abs/2512.14051) [[Homepage]](https://opendataarena.github.io/)
+- [[Paper]](https://arxiv.org/pdf/2512.14051) [[Homepage]](https://opendataarena.github.io/)
 </div>
 </div>
 
