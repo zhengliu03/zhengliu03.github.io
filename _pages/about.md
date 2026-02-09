@@ -367,3 +367,41 @@ _(\* denotes equal contribution)_
 # 🛠️ Skills
 - **Programming**: C, C++, Python
 - **Frameworks & Tools**: [PyTorch](https://github.com/pytorch/pytorch), [Transformers](https://github.com/huggingface/transformers), [LLaVA](https://github.com/haotian-liu/LLaVA), [Verl](https://github.com/verl-project/verl), [LLaMA-Factory](https://github.com/hiyouga/LlamaFactory)
+
+# 😄 Miscellaneous
+<!-- <div class="highlight-blocks">
+  <div class="highlight-block">
+    <h3>❤️ Family</h3>
+    <ul>
+      <img src="images/qiaoqiao.jpg" alt="family Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
+     <br>
+	    <li>I have a beautiful girlfriend, <a href='https://scholar.google.com/citations?user=G_BypiwAAAAJ&hl=zh-CN&oi=ao'>Ziqi Qiao</a>, who is also a Ph.D. student at Peking University. We also own an adorable cat 🐱 named QiuQiu. He brings us tremendous fun and happiness.</li>
+    </ul>
+  </div>
+  
+  <div class="highlight-block">
+    <h3>🧑‍🤝‍🧑 Friends</h3>
+    <ul>
+	<img src="images/friends.png" alt="friend Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
+      <br>
+	    <li>Here are some of my closest academic friends: <a href='https://liujiaming1996.github.io/'>Jiaming Liu</a>, <a href='https://scholar.google.com/citations?user=SgeV4NkAAAAJ&hl=zh-CN&oi=ao'>Yulin Luo</a>, <a href='https://gumpest.github.io/'>Yuan Zhang</a>, and Gaole Dai from PKU; <a href='https://scholar.google.com/citations?hl=zh-CN&user=Vl1X_-sAAAAJ'>Xiaowei Chi</a> from HKUST; <a href='https://wuchenrui.github.io/'>Chenrui Wu</a> from ZJU&SFU; <a href='https://yilijin.github.io/'>Yili Jin</a> from McGill.</li>
+    </ul>
+  </div>
+  
+  <div class="highlight-block">
+    <h3>😄 Hobbies</h3>
+    <ul>
+	<img src="images/football_new.png" alt="hobby Image" style="display: block; margin: auto; max-width: 100%; height: auto;">
+      <br>
+	    <li>I am a crazy basketball 🏀 & football ⚽️ fan. I enjoy the games of Kevin Durant 🕷️ and Kyrie Irving 🧙. I also wholeheartedly pledge my allegiance to Chelsea Football Club, KTBFFH! 💙</li>
+    </ul>
+  </div>
+</div>
+
+<br> -->
+
+<!-- <div style="text-align: center;"> -->
+<div style="width: 20%; position:relative; left:40%">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TexC6zB_7AOUKNMMshe4U4igIY-rca8pyS5kiQ7N6C8"></script>
+    <!-- 地图小部件代码结束 -->
+</div>
