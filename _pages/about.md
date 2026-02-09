@@ -241,7 +241,7 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
 	  <p>[02.2026] 🏆 Our <a href="https://huggingface.co/datasets/OpenDataArena/MMFineReason-1.8M-Qwen3-VL-235B-Thinking">MMFineReason-1.8M</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
-      <p>[01.2026] 🏆 Our <a href="https://huggingface.co/datasets/opendatalab/ChartVerse-SFT-1800K">ChartVerse-SFT-1800K</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
+      <p>[01.2026] 🏆 Our <a href="https://huggingface.co/datasets/opendatalab/ChartVerse-SFT-1.8M">ChartVerse-SFT-1.8M</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
 	    <p>[01.2026] 🎉 One paper <strong>FLARE</strong> was accepted by <strong>ICLR 2026</strong>!</p>
 	    <p>[09.2025] 🎓 I joined <strong>Peking University</strong> and started pursuing my master's degree.</p>
       <p>[07.2025] 🎉 One paper <strong>SynthVLM</strong> was accepted by <strong>ACM MM 2025</strong>!</p>
