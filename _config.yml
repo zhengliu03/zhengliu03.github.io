@@ -1,6 +1,6 @@
 # Basic Information
 title: "Zheng Liu (刘政)"
-description: "Master student at Peking University, researching Vision-Language Models, Multimodal Reasoning, and Synthetic Data."
+# description: "Master student at Peking University, researching Vision-Language Models, Multimodal Reasoning, and Synthetic Data."
 repository: "zhengliu03/zhengliu03.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -32,9 +32,9 @@ author:
   email: "2501213330@stu.pku.edu.cn"
   # emailsecond: 
   github: "starriver030515"
-  googlescholar: # TODO: 填入你的 Google Scholar ID
+  googlescholar: "https://scholar.google.com/citations?user=HPaxiugAAAAJ&hl=en"
   homepage: "https://zhengliu03.github.io/"
-  linkedin:
+  linkedin: "liu-zheng-490b45387"
   orcid:
   university: "Peking University"
   city: "Beijing, China"

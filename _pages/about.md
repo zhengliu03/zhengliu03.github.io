@@ -227,14 +227,14 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
       <li><strong>Address:</strong> School of Computer Science, Peking University, Beijing, China</li>
       <li><strong>Email:</strong> <email>2501213330[AT]stu.pku.edu.cn</email></li>
       <li><strong>GitHub:</strong> <a href="https://github.com/starriver030515">starriver030515</a></li>
-      <li><strong>WeChat:</strong> lz030515</li>
+      <li><strong>WeChat:</strong> lz030515123 </li>
     </ul>
   </div>
 </div>
 
 # 🎓 Educations
-- <img src="images/pku_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University** (2025.09 - 2028.07) M.S. in Computer Science, supervised by Prof. Wentao Zhang and Prof. Bin Cui
-- <img src="images/nju_.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** (2021.09 - 2025.07) B.S. in Computer Science, GPA: 4.62/5.0, Rank: 1/210
+- <img src="images/pku.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University** (2025.09 - 2028.07) M.S. in Computer Science, supervised by Prof. Wentao Zhang and Prof. Bin Cui
+- <img src="images/nju.jpg" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** (2021.09 - 2025.07) B.S. in Computer Science, GPA: 4.62/5.0, Rank: 1/210
 <br>
 
 # 🔥 News
@@ -265,7 +265,7 @@ _(\* denotes equal contribution)_
 
 - **Zheng Liu**, Mengjie Liu, Jingzhou Chen, Jingwei Xu, Bin Cui, Conghui He, Wentao Zhang
 - International Conference on Learning Representations, 2026.
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Code, 100+ Stars🌟]](https://github.com/arctanxarc/UniCTokens)
+- [[Paper]](https://arxiv.org/pdf/2504.09925) [[Code, 100+ Stars🌟]](https://github.com/starriver030515/FLARE)
 </div>
 </div>
 
@@ -276,7 +276,7 @@ _(\* denotes equal contribution)_
 
 - **Zheng Liu\***, Hao Liang\*, Bozhou Li, Wentao Xiong, Chong Chen, Conghui He, Wentao Zhang, Bin Cui
 - ACM International Conference on Multimedia, 2025.
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Code, 100+ Stars🌟]](https://github.com/arctanxarc/UniCTokens)
+- [[Paper]](https://arxiv.org/pdf/2407.20756) [[Code, 100+ Stars🌟]](https://github.com/starriver030515/SynthVLM)
 </div>
 </div>
 
@@ -289,7 +289,7 @@ _(\* denotes equal contribution)_
 
 - **Zheng Liu\***, Mengjie Liu\*, Siwei Wen, Mengzhang Cai, Bin Cui, Conghui He, Wentao Zhang
 - Under review at ACL 2026.
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Code, 100+ Stars🌟]](https://github.com/arctanxarc/UniCTokens)
+- [[Paper]](https://arxiv.org/pdf/2509.16591) [[Code]](https://github.com/starriver030515/HAPO)
 </div>
 </div>
 
@@ -300,7 +300,17 @@ _(\* denotes equal contribution)_
 
 - **Zheng Liu\***, Honglin Lin\*, Chonghan Qin, ..., Bin Cui, Conghui He, Lijun Wu, Wentao Zhang
 - Under review at ACL 2026.
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Code, 100+ Stars🌟]](https://github.com/arctanxarc/UniCTokens)
+- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Homepage]](https://chartverse.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/sisbench.png' alt="SISBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility**
+- Honglin Lin\*, **Zheng Liu\***, Chonghan Qin\*, Qizhi Pei, Yu Li, Zhanping Zhong, ..., Conghui He, Lijun Wu. 
+- Under review at ACL 2026.
+- [[Paper]](https://arxiv.org/pdf/2601.17027) [[Homepage]](https://scigenbench.github.io)
 </div>
 </div>
 
@@ -311,35 +321,33 @@ _(\* denotes equal contribution)_
 
 - Honglin Lin\*, **Zheng Liu\***, Yun Zhu\*, Chonghan Qin, Xiaoran Shang, Conghui He, Wentao Zhang, Lijun Wu
 - Under review at ECCV 2026.
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Code, 100+ Stars🌟]](https://github.com/arctanxarc/UniCTokens)
+- [[Paper]](https://arxiv.org/pdf/2601.21821) [[Homepage]](https://mmfinereason.github.io)
 </div>
 </div>
 
-- **Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility**
-
--  Honglin Lin\*, **Zheng Liu\***, Chonghan Qin\*, Qizhi Pei, Yu Li, Zhanping Zhong, ..., Conghui He, Lijun Wu. 
-- *Under review at ACL 2026.*
-
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Code, 100+ Stars🌟]](https://github.com/arctanxarc/UniCTokens)
-</div>
-</div>
 <br>
 
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">⭐ 54K+</div><img src='images/mineru.png' alt="MinerU" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MinerU</div><img src='images/mineru.png' alt="MinerU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing**
 
 - Junbo Niu\*, **Zheng Liu\***, Zhuangcheng Gu\*, Bin Wang\*, ..., Bowen Zhou, Dahua Lin, Wentao Zhang, Conghui He
-- [[GitHub, 54K+ Stars🌟]](https://github.com/opendatalab/MinerU)
+- [[Paper]](https://arxiv.org/pdf/2509.22186) [[GitHub, 54K+ Stars🌟]](https://github.com/opendatalab/MinerU)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenDataArena</div><img src='images/opendataarena.png' alt="OpenDataArena" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value**
 
 - Mengzhang Cai\*, Xin Gao\*, Yu Li\*, Honglin Lin\*, **Zheng Liu\***, ..., Dahua Lin, Conghui He, Lijun Wu.
+- [[Paper]](https://arxiv.org/abs/2512.14051) [[Homepage]](https://opendataarena.github.io/)
+</div>
+</div>
 
 <br>
 
