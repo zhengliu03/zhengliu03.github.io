@@ -1,0 +1,43 @@
+# Basic Information
+title: "Zheng Liu (刘政)"
+description: "Master student at Peking University, researching Vision-Language Models, Multimodal Reasoning, and Synthetic Data."
+repository: "zhengliu03/zhengliu03.github.io"
+google_scholar_stats_use_cdn: true
+
+# google analytics
+google_analytics_id: # TODO: 填入你的 Google Analytics ID（可选）
+
+# SEO Related (可选)
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
+
+# Site Settings
+url: "https://zhengliu03.github.io"   
+baseurl: ""
+
+# Theme and Plugins
+minimal_mistakes_skin: "default"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+# Author Information
+author:
+  name: "Zheng Liu (刘政)"
+  avatar: "./images/profile.jpg"
+  bio: "Master @ PKU CS"
+  interests: "Vision-Language Models, Multimodal Reasoning, Document Parsing, Synthetic Data"
+  email: "2501213330@stu.pku.edu.cn"
+  # emailsecond: 
+  github: "starriver030515"
+  googlescholar: # TODO: 填入你的 Google Scholar ID
+  homepage: "https://zhengliu03.github.io/"
+  linkedin:
+  orcid:
+  university: "Peking University"
+  city: "Beijing, China"
+
+include:
+  - _pages
