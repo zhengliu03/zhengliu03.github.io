@@ -207,7 +207,7 @@ redirect_from:
 
 I am a first-year master student at **[Peking University](https://cs.pku.edu.cn/)**, where I am supervised by [**Prof. Wentao Zhang**](https://zwt233.github.io/) and [**Prof. Bin Cui**](https://cuibinpku.github.io/) at the School of Computer Science. I obtained my B.S. degree from [**Nanjing University**](https://cs.nju.edu.cn/), ranking **1st out of 210** students (GPA: 4.62/5.0).
 
-Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/), serving as a research intern supervised by [Dr. Conghui He](https://conghui.github.io/) and [Dr. Lijun Wu](https://apeterswu.github.io/). I contributed to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 54K+ GitHub Stars).
+Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/), serving as a research intern supervised by [Dr. Conghui He](https://conghui.github.io/) and [Dr. Lijun Wu](https://apeterswu.github.io/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 54K+ GitHub Stars).
 
 My research interests include **Vision-Language Models**, **Multimodal Reasoning**, **Document Parsing**, and **Synthetic Data**. Feel free to drop me an email for any form of communication or collaboration!
 
@@ -300,7 +300,7 @@ _(\* denotes equal contribution)_
 
 - **Zheng Liu\***, Honglin Lin\*, Chonghan Qin, ..., Bin Cui, Conghui He, Lijun Wu, Wentao Zhang
 - Under review at ACL 2026.
-- [[Paper]](https://arxiv.org/pdf/2505.14671?) [[Homepage]](https://chartverse.github.io/)
+- [[Paper]](https://arxiv.org/pdf/2601.13606) [[Homepage]](https://chartverse.github.io/)
 </div>
 </div>
 
@@ -402,6 +402,6 @@ _(\* denotes equal contribution)_
 
 <!-- <div style="text-align: center;"> -->
 <div style="width: 20%; position:relative; left:40%">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TexC6zB_7AOUKNMMshe4U4igIY-rca8pyS5kiQ7N6C8"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=L0EemvxHDS20j_NXjKHCNseiwOY625cccEfWmlTcuac"></script>
     <!-- 地图小部件代码结束 -->
 </div>
