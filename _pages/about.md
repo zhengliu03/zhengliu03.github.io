@@ -306,12 +306,12 @@ _(\* denotes equal contribution)_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/sisbench.png' alt="SISBench" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/sisbench.png' alt="SISBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility**
 - Honglin Lin\*, **Zheng Liu\***, Chonghan Qin\*, Qizhi Pei, Yu Li, Zhanping Zhong, ..., Conghui He, Lijun Wu. 
-- Under review at ACL 2026.
+- Under review at ECCV 2026.
 - [[Paper]](https://arxiv.org/pdf/2601.17027) [[Homepage]](https://scigenbench.github.io)
 </div>
 </div>
