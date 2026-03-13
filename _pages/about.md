@@ -266,7 +266,7 @@ _(\* denotes equal contribution)_
 **SynthVLM: Towards High-Quality and Efficient Synthesis of Image-Caption Datasets for Vision-Language Models**
 
 - **Zheng Liu\***, Hao Liang\*, Bozhou Li, Wentao Xiong, Chong Chen, Conghui He, Wentao Zhang, Bin Cui
-- ACM International Conference on Multimedia, 2025.
+- Proceedings of the 33rd ACM International Conference on Multimedia(ACM MM 2025, CCF-A).
 - [[Paper]](https://arxiv.org/pdf/2407.20756) [[Code, 100+ Stars🌟]](https://github.com/starriver030515/SynthVLM)
 </div>
 </div>
@@ -277,7 +277,7 @@ _(\* denotes equal contribution)_
 **FLARE: Fully Integration of Vision-Language Representations for Deep Cross-Modal Understanding**
 
 - **Zheng Liu**, Mengjie Liu, Jingzhou Chen, Jingwei Xu, Bin Cui, Conghui He, Wentao Zhang
-- International Conference on Learning Representations, 2026.
+- The Fourteenth International Conference on Learning Representations(ICLR 2026, CCF-A).
 - [[Paper]](https://arxiv.org/pdf/2504.09925) [[Code, 100+ Stars🌟]](https://github.com/starriver030515/FLARE)
 </div>
 </div>
@@ -288,7 +288,7 @@ _(\* denotes equal contribution)_
 **From Uniform to Heterogeneous: Tailoring Policy Optimization to Every Token's Nature**
 
 - **Zheng Liu\***, Mengjie Liu\*, Siwei Wen, Mengzhang Cai, Bin Cui, Conghui He, Wentao Zhang
-- ACL 2026.
+- The 64th Annual Meeting of the Association for Computational Linguistics(ACL 2026, CCF-A).
 - [[Paper]](https://arxiv.org/pdf/2509.16591) [[Code]](https://github.com/starriver030515/HAPO)
 </div>
 </div>
@@ -299,7 +299,7 @@ _(\* denotes equal contribution)_
 **ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch**
 
 - **Zheng Liu\***, Honglin Lin\*, Chonghan Qin, ..., Bin Cui, Conghui He, Lijun Wu, Wentao Zhang
-- ACL 2026.
+- The 64th Annual Meeting of the Association for Computational Linguistics(ACL 2026, CCF-A).
 - [[Paper]](https://arxiv.org/pdf/2601.13606) [[Homepage]](https://chartverse.github.io/)
 </div>
 </div>
