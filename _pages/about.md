@@ -260,17 +260,6 @@ _(\* denotes equal contribution)_
 
 ## 📒 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR'2026</div><img src='images/flare.png' alt="FLARE" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FLARE: Fully Integration of Vision-Language Representations for Deep Cross-Modal Understanding**
-
-- **Zheng Liu**, Mengjie Liu, Jingzhou Chen, Jingwei Xu, Bin Cui, Conghui He, Wentao Zhang
-- International Conference on Learning Representations, 2026.
-- [[Paper]](https://arxiv.org/pdf/2504.09925) [[Code, 100+ Stars🌟]](https://github.com/starriver030515/FLARE)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM'2025</div><img src='images/synthvlm.png' alt="SynthVLM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -282,7 +271,16 @@ _(\* denotes equal contribution)_
 </div>
 </div>
 
-## 📄 Preprints & Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR'2026</div><img src='images/flare.png' alt="FLARE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FLARE: Fully Integration of Vision-Language Representations for Deep Cross-Modal Understanding**
+
+- **Zheng Liu**, Mengjie Liu, Jingzhou Chen, Jingwei Xu, Bin Cui, Conghui He, Wentao Zhang
+- International Conference on Learning Representations, 2026.
+- [[Paper]](https://arxiv.org/pdf/2504.09925) [[Code, 100+ Stars🌟]](https://github.com/starriver030515/FLARE)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/hapo.png' alt="HAPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -290,7 +288,7 @@ _(\* denotes equal contribution)_
 **From Uniform to Heterogeneous: Tailoring Policy Optimization to Every Token's Nature**
 
 - **Zheng Liu\***, Mengjie Liu\*, Siwei Wen, Mengzhang Cai, Bin Cui, Conghui He, Wentao Zhang
-- Under review at ACL 2026.
+- ACL 2026.
 - [[Paper]](https://arxiv.org/pdf/2509.16591) [[Code]](https://github.com/starriver030515/HAPO)
 </div>
 </div>
@@ -301,10 +299,12 @@ _(\* denotes equal contribution)_
 **ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch**
 
 - **Zheng Liu\***, Honglin Lin\*, Chonghan Qin, ..., Bin Cui, Conghui He, Lijun Wu, Wentao Zhang
-- Under review at ACL 2026.
+- ACL 2026.
 - [[Paper]](https://arxiv.org/pdf/2601.13606) [[Homepage]](https://chartverse.github.io/)
 </div>
 </div>
+
+## 📄 Preprints & Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/sisbench.png' alt="SISBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
