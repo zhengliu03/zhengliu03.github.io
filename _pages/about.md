@@ -205,7 +205,7 @@ redirect_from:
 
 # 👤 Biography
 
-I am a first-year master student at **[Peking University](https://cs.pku.edu.cn/)**, where I am supervised by [**Prof. Wentao Zhang**](https://zwt233.github.io/) and [**Prof. Bin Cui**](https://cuibinpku.github.io/) at the School of Computer Science. I obtained my B.S. degree from [**Nanjing University**](https://cs.nju.edu.cn/), ranking **1st out of 210** students (GPA: 4.62/5.0).
+I am a first-year master student at **[Peking University](https://cs.pku.edu.cn/)**, where I am supervised by [**Prof. Bin Cui**](https://cuibinpku.github.io/) and [**Prof. Wentao Zhang**](https://zwt233.github.io/) at the School of Computer Science. I obtained my B.S. degree from [**Nanjing University**](https://cs.nju.edu.cn/), ranking **1st out of 210** students (GPA: 4.62/5.0).
 
 Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/), serving as a research intern supervised by [Dr. Conghui He](https://conghui.github.io/) and [Dr. Lijun Wu](https://apeterswu.github.io/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 54K+ GitHub Stars).
 
@@ -233,7 +233,7 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
 </div>
 
 # 🎓 Educations
-- <img src="images/pku.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University** (2025.09 - 2028.07) M.S. in Computer Science, supervised by Prof. Wentao Zhang and Prof. Bin Cui
+- <img src="images/pku.png" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Peking University** (2025.09 - 2028.07) M.S. in Computer Science, supervised by Prof. Bin Cui and Prof. Wentao Zhang
 - <img src="images/nju.jpg" style="width: 20px;height: auto;display: inline-block;vertical-align: middle"> **Nanjing University** (2021.09 - 2025.07) B.S. in Computer Science, GPA: 4.62/5.0, Rank: 1/210
 <br>
 
