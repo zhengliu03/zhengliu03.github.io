@@ -260,14 +260,13 @@ _(\* denotes equal contribution)_
 
 ## 📒 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MinerU</div><img src='images/mineru.png' alt="MinerU" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/mineru.png' alt="MinerU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing**
 
 - Junbo Niu\*, **Zheng Liu\***, Zhuangcheng Gu\*, Bin Wang\*, ..., Bowen Zhou, Dahua Lin, Wentao Zhang, Conghui He
 - ACL 2026(Oral), CCF-A
-- The 64th Annual Meeting of the Association for Computational Linguistics Oral(ACL 2026 oral, CCF-A).
 - [[Paper]](https://arxiv.org/pdf/2509.22186) [[GitHub, 54K+ Stars🌟]](https://github.com/opendatalab/MinerU)
 </div>
 </div>
