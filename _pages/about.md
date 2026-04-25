@@ -240,6 +240,7 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
+	  <p>[04.2026] 🎉 Started research internship at <strong>Qwen Team, Alibaba Group</strong>.</p>
 	  <p>[04.2026] 🎉 Three papers (<strong>HAPO</strong>, <strong>ChartVerse</strong>, and <strong>MinerU2.5</strong>) were accepted by <strong>ACL 2026</strong>, with <strong>MinerU2.5</strong> selected for an <strong>Oral Presentation</strong>!</p>
 	  <p>[02.2026] 🏆 Our <a href="https://huggingface.co/datasets/OpenDataArena/MMFineReason-1.8M-Qwen3-VL-235B-Thinking">MMFineReason-1.8M</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
       <p>[01.2026] 🏆 Our <a href="https://huggingface.co/datasets/opendatalab/ChartVerse-SFT-1.8M">ChartVerse-SFT-1.8M</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
@@ -366,6 +367,7 @@ _(\* denotes equal contribution)_
 <br>
 
 # 🏢 Experience
+- *2026.04 - Present*, **Research Intern**, Qwen Team, Alibaba Group, supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Jian Guan](https://jianguanthu.github.io/). Working on building the world perception capabilities of Qwen foundation models.
 - *2025.09 - 2026.02*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Dr. Lijun Wu](https://apeterswu.github.io/). Working on Multimodal LLM Reasoning, Scientific Image Understanding, Reasoning Data Synthesis.
 - *2024.09 - 2025.08*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Dr. Conghui He](https://conghui.github.io/). Working on Multimodal LLM Understanding, OCR-Free Visual Understanding.
 
