@@ -207,7 +207,7 @@ redirect_from:
 
 I am a first-year master student at **[Peking University](https://cs.pku.edu.cn/)**, where I am supervised by [**Prof. Bin Cui**](https://cuibinpku.github.io/) and [**Prof. Wentao Zhang**](https://zwt233.github.io/) at the School of Computer Science. I obtained my B.S. degree from [**Nanjing University**](https://cs.nju.edu.cn/), ranking **1st out of 210** students (GPA: 4.62/5.0).
 
-Currently, I am a research intern at the [**Qwen Team, Alibaba Group**](https://qwen.ai/home), supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Jian Guan](https://jianguanthu.github.io/), working on building the world perception capabilities of Qwen foundation models. Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 60K+ GitHub Stars).
+Currently, I am a research intern at the [**Qwen Team, Alibaba Group**](https://qwen.ai/home), supervised by [**Shuai Bai**](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [**Jian Guan**](https://jianguanthu.github.io/), working on building the world perception capabilities of Qwen foundation models. Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 60K+ GitHub Stars).
 
 My research interests include **Vision-Language Models**, **Multimodal Reasoning**, **Document Parsing**. Feel free to drop me an email for any form of communication or collaboration!
 
@@ -368,8 +368,8 @@ _(\* denotes equal contribution)_
 
 # 🏢 Experience
 - *2026.04 - Present*, **Research Intern**, [Qwen Team, Alibaba Group](https://qwen.ai/home), supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Jian Guan](https://jianguanthu.github.io/). Working on building the world perception capabilities of Qwen foundation models.
-- *2025.09 - 2026.02*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Dr. Lijun Wu](https://apeterswu.github.io/). Working on Multimodal LLM Reasoning, Scientific Image Understanding, Reasoning Data Synthesis.
-- *2024.09 - 2025.08*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Dr. Conghui He](https://conghui.github.io/). Working on Multimodal LLM Understanding, OCR-Free Visual Understanding.
+- *2025.09 - 2026.02*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Lijun Wu](https://apeterswu.github.io/). Working on Multimodal LLM Reasoning, Scientific Image Understanding, Reasoning Data Synthesis.
+- *2024.09 - 2025.08*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Conghui He](https://conghui.github.io/). Working on Multimodal LLM Understanding, OCR-Free Visual Understanding.
 
 <br>
 
