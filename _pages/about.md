@@ -207,9 +207,9 @@ redirect_from:
 
 I am a first-year master student at **[Peking University](https://cs.pku.edu.cn/)**, where I am supervised by [**Prof. Bin Cui**](https://cuibinpku.github.io/) and [**Prof. Wentao Zhang**](https://zwt233.github.io/) at the School of Computer Science. I obtained my B.S. degree from [**Nanjing University**](https://cs.nju.edu.cn/), ranking **1st out of 210** students (GPA: 4.62/5.0).
 
-Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/), serving as a research intern supervised by [Dr. Conghui He](https://conghui.github.io/) and [Dr. Lijun Wu](https://apeterswu.github.io/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 54K+ GitHub Stars).
+Currently, I am a research intern at the **Qwen Team, Alibaba Group**, supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Jian Guan](https://jianguanthu.github.io/), working on building the world perception capabilities of Qwen foundation models. Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 60K+ GitHub Stars).
 
-My research interests include **Vision-Language Models**, **Multimodal Reasoning**, **Document Parsing**, and **Synthetic Data**. Feel free to drop me an email for any form of communication or collaboration!
+My research interests include **Vision-Language Models**, **Multimodal Reasoning**, **Document Parsing**. Feel free to drop me an email for any form of communication or collaboration!
 
 <div class="highlight-blocks">
   <div class="highlight-block">
