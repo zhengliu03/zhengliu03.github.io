@@ -269,7 +269,7 @@ _(\* denotes equal contribution)_
 
 - Junbo Niu\*, **Zheng Liu\***, Zhuangcheng Gu\*, Bin Wang\*, ..., Bowen Zhou, Dahua Lin, Wentao Zhang, Conghui He
 - ACL 2026(Oral), CCF-A
-- [[Paper]](https://arxiv.org/pdf/2509.22186) [[GitHub, 54K+ Stars🌟]](https://github.com/opendatalab/MinerU)
+- [[Paper]](https://arxiv.org/pdf/2509.22186) [[GitHub, 60K+ Stars🌟]](https://github.com/opendatalab/MinerU)
 </div>
 </div>
 
