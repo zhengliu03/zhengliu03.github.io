@@ -207,9 +207,9 @@ redirect_from:
 
 I am a first-year master student at **[Peking University](https://cs.pku.edu.cn/)**, where I am supervised by [**Prof. Bin Cui**](https://cuibinpku.github.io/) and [**Prof. Wentao Zhang**](https://zwt233.github.io/) at the School of Computer Science. I obtained my B.S. degree from [**Nanjing University**](https://cs.nju.edu.cn/), ranking **1st out of 210** students (GPA: 4.62/5.0).
 
-Currently, I am a research intern at the [**Qwen Team, Alibaba Group**](https://qwen.ai/home), supervised by [**Shuai Bai**](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [**Jian Guan**](https://jianguanthu.github.io/), working on building the world perception capabilities of Qwen foundation models. Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 60K+ GitHub Stars).
+Currently, I am a research intern at the [**Qwen Team, Alibaba Group**](https://qwen.ai/home), supervised by [**Shuai Bai**](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [**Jian Guan**](https://jianguanthu.github.io/), working on **Computer Use Agent (CUA)** for Qwen models, with a focus on CUA pretraining — including visual grounding, multi-platform environment construction, and trajectory synthesis. Previously, I had a wonderful time at [**OpenDataLab, Shanghai AI Laboratory**](https://opendatalab.com/). I am a core contributor to the open-source project [**MinerU**](https://github.com/opendatalab/MinerU) (⭐ 60K+ GitHub Stars).
 
-My research interests include **Vision-Language Models**, **Multimodal Reasoning**, **Document Parsing**. Feel free to drop me an email for any form of communication or collaboration!
+My research interests include **Vision-Language Models**, **Multimodal Reasoning**, **Computer Use Agent**. Feel free to drop me an email for any form of communication or collaboration!
 
 <div class="highlight-blocks">
   <div class="highlight-block">
@@ -217,7 +217,7 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
     <ul>
       <li><strong>Vision-Language Models</strong>: Build efficient and deeply integrated multimodal architectures for cross-modal understanding.</li>
       <li><strong>Multimodal Reasoning</strong>: Enhance reasoning capabilities of VLMs through RL-based optimization and scalable data synthesis.</li>
-      <li><strong>Document Parsing</strong>: OCR-free high-resolution document understanding with decoupled VLM pipelines.</li>
+      <li><strong>Computer Use Agent</strong>: Build GUI agents capable of autonomous interaction across Web, Desktop, and Mobile platforms via visual grounding and trajectory synthesis.</li>
     </ul>
   </div>
 
@@ -240,7 +240,7 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
 # 🔥 News
 <div id="news" class="w3-container w3-margin-top-2 w3-cursive">
 	  <div style="height:200px; width:100%; overflow:auto;">
-	  <p>[04.2026] 🎉 Started research internship at <strong>Qwen Team, Alibaba Group</strong>.</p>
+	  <p>[03.2026] 🎉 Started research internship at <strong>Qwen Team, Alibaba Group</strong>.</p>
 	  <p>[04.2026] 🎉 Three papers (<strong>HAPO</strong>, <strong>ChartVerse</strong>, and <strong>MinerU2.5</strong>) were accepted by <strong>ACL 2026</strong>, with <strong>MinerU2.5</strong> selected for an <strong>Oral Presentation</strong>!</p>
 	  <p>[02.2026] 🏆 Our <a href="https://huggingface.co/datasets/OpenDataArena/MMFineReason-1.8M-Qwen3-VL-235B-Thinking">MMFineReason-1.8M</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
       <p>[01.2026] 🏆 Our <a href="https://huggingface.co/datasets/opendatalab/ChartVerse-SFT-1.8M">ChartVerse-SFT-1.8M</a> dataset ranked <strong>Top 1</strong> on 🤗 Hugging Face Datasets Trending!</p>
@@ -261,6 +261,16 @@ My research interests include **Vision-Language Models**, **Multimodal Reasoning
 _(\* denotes equal contribution)_
 
 ## 📒 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/sisbench.png' alt="SISBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility**
+- Honglin Lin\*, **Zheng Liu\***, Chonghan Qin\*, Qizhi Pei, Yu Li, Zhanping Zhong, ..., Conghui He, Lijun Wu. 
+- ECCV 2026, CCF-B
+- [[Paper]](https://arxiv.org/pdf/2601.17027) [[Homepage]](https://scigenbench.github.io)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'2026</div><img src='images/mineru.png' alt="MinerU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -319,17 +329,7 @@ _(\* denotes equal contribution)_
 
 ## 📄 Preprints & Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/sisbench.png' alt="SISBench" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility**
-- Honglin Lin\*, **Zheng Liu\***, Chonghan Qin\*, Qizhi Pei, Yu Li, Zhanping Zhong, ..., Conghui He, Lijun Wu. 
-- Under review at ECCV 2026.
-- [[Paper]](https://arxiv.org/pdf/2601.17027) [[Homepage]](https://scigenbench.github.io)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'2026</div><img src='images/mmfinereason.png' alt="MMFineReason" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS'2026</div><img src='images/mmfinereason.png' alt="MMFineReason" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods**
@@ -367,7 +367,7 @@ _(\* denotes equal contribution)_
 <br>
 
 # 🏢 Experience
-- *2026.04 - Present*, **Research Intern**, [Qwen Team, Alibaba Group](https://qwen.ai/home), supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Jian Guan](https://jianguanthu.github.io/). Working on building the world perception capabilities of Qwen foundation models.
+- *2026.03 - Present*, **Research Intern**, [Qwen Team, Alibaba Group](https://qwen.ai/home), supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Jian Guan](https://jianguanthu.github.io/). Working on Computer Use Agent (CUA) for Qwen models, with a focus on CUA pretraining — including visual grounding, multi-platform environment construction, and trajectory synthesis.
 - *2025.09 - 2026.02*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Lijun Wu](https://apeterswu.github.io/). Working on Multimodal LLM Reasoning, Scientific Image Understanding, Reasoning Data Synthesis.
 - *2024.09 - 2025.08*, **Research Intern**, [OpenDataLab, Shanghai AI Laboratory](https://opendatalab.com/), supervised by [Conghui He](https://conghui.github.io/). Working on Multimodal LLM Understanding, OCR-Free Visual Understanding.
 
