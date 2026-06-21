@@ -335,7 +335,7 @@ _(\* denotes equal contribution)_
 **MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods**
 
 - Honglin Lin\*, **Zheng Liu\***, Yun Zhu\*, Chonghan Qin, Xiaoran Shang, Conghui He, Wentao Zhang, Lijun Wu
-- Under review at ECCV 2026.
+- Under review at NIPS 2026.
 - [[Paper]](https://arxiv.org/pdf/2601.21821) [[Homepage]](https://mmfinereason.github.io)
 </div>
 </div>
